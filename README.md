@@ -8,3 +8,5 @@
 ****
 My name is lawal Afeez
 ****
+
+I am from Nigeria, learning Git commands
