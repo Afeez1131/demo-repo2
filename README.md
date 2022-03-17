@@ -13,3 +13,6 @@ I am from Nigeria, learning Git commands
 
 ### Learning how to use the checkout -b
 ### which is used to create branch
+## added a new line not in the master branch to the 
+features-readme-instruction
+
