@@ -19,4 +19,4 @@ features-readme-instruction
 
 -- Added a conflicting line in master and quick test branch
 
--- have fun
+-- have fun everyday
