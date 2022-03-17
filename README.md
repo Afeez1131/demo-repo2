@@ -19,4 +19,10 @@ features-readme-instruction
 
 -- Added a conflicting line in master and quick test branch
 
+<<<<<<< HEAD
 --- watching another video on git and github commands
+=======
+-- have fun everyday
+
+--- Another line of text
+>>>>>>> 706e2cfd87454ccfc9c350e43573660724783048
