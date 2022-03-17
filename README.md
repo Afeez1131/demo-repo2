@@ -16,5 +16,7 @@ I am from Nigeria, learning Git commands
 ## added a new line not in the master branch to the 
 features-readme-instruction
 
+
 -- Added a conflicting line in master and quick test branch
+
 
