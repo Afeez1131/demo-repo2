@@ -19,4 +19,10 @@ features-readme-instruction
 
 -- Added a conflicting line in master and quick test branch
 
+
+--- watching another video on git and github commands
+
 -- have fun everyday
+
+--- Another line of text
+
