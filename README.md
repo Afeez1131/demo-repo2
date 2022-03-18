@@ -27,3 +27,6 @@ features-readme-instruction
 --- Another line of text
 
 # Another Heading in the new branch
+# heading 1
+# heading 2
+# heading 3
